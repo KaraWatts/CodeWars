@@ -16,4 +16,6 @@ https://www.codewars.com/users/KaraWatts
   
 - <a href=https://github.com/KaraWatts/CodeWars/tree/main/JavaScript/kyu-7/Is_it_a_triangle target="blank">Is it a triangle?</a>
 
+- <a href=https://github.com/KaraWatts/CodeWars/tree/main/JavaScript/kyu-7/Odd_or_Even target="blank">Odd or Even?</a>
+
 </details>
