@@ -18,4 +18,6 @@ https://www.codewars.com/users/KaraWatts
 
 - <a href=https://github.com/KaraWatts/CodeWars/tree/main/JavaScript/kyu-7/Odd_or_Even/README.md target="blank">Odd or Even?</a>
 
+- <a href=https://github.com/KaraWatts/CodeWars/tree/main/JavaScript/kyu-7/List_Filtering/README.md target="blank">List Filtering</a>
+
 </details>
