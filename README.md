@@ -20,4 +20,6 @@ https://www.codewars.com/users/KaraWatts
 
 - <a href=https://github.com/KaraWatts/CodeWars/tree/main/JavaScript/kyu-7/List_Filtering/README.md target="blank">List Filtering</a>
 
+- <a href=https://github.com/KaraWatts/CodeWars/tree/main/JavaScript/kyu-7/Number_of_People_in_the_Bus/README.md target="blank">Number of People in the Bus</a>
+
 </details>
