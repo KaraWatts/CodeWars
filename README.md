@@ -20,7 +20,7 @@ Contains my personal solutions to CodeWars Challenges:
 
 - <a href='https://github.com/KaraWatts/CodeWars/tree/main/JavaScript/kyu-7/Odd_or_Even/README.md'>Odd or Even</a>
 
-- <a href='https://github.com/KaraWatts/CodeWars/tree/main/Python/kyu-7/Two_to_One/README.md'>Two to One</a>
+- <a href='https://github.com/KaraWatts/CodeWars/tree/main/JavaScript/kyu-7/Two_to_One/README.md'>Two to One</a>
 
 </details>
 
