@@ -27,7 +27,7 @@ https://www.codewars.com/users/KaraWatts
 </details>
 
 ## Python
-
+<details>
   <summary>Kyu 7</summary>
   
 - <a href=https://github.com/KaraWatts/CodeWars/tree/main/Python/kyu-7/Two_to_One/README.md target="blank">Two to One</a>
