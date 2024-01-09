@@ -35,4 +35,6 @@ Contains my personal solutions to CodeWars Challenges:
 <summary>Kyu 7</summary>
 
 - <a href='https://github.com/KaraWatts/CodeWars/tree/main/Python/kyu-7/Two_to_One/README.md'>Two to One</a>
+
+- <a href='https://github.com/KaraWatts/CodeWars/tree/main/Python/kyu-7/Sum_of_Odd_Numbers/README.md'>Sum of Odd Numbers</a>
 </details>
